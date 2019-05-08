@@ -1,0 +1,23 @@
+
+#hidden1,#hidden2,#hidden3,#hidden4{
+  width: 450px;
+  text-align: center;
+  position: relative;
+  background: #f5f5f5;
+}
+#registro {
+  margin-left: 35%;
+  margin-top: 5%;
+    display: inline-block;
+
+    text-align: center;
+
+}
+input{width: 315px}
+
+.footer{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  text-align:center;
+  background-color: black;
